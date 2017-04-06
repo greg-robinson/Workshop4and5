@@ -1,5 +1,5 @@
 import React from 'react';
-import unixTimeToString from 'app/util.js';
+import {unixTimeToString} from '/home/gregoire/Documents/CS 326/Workshop6/app/util.js';
 
 export default class StatusUpdate extends React.Component {
   render() {
