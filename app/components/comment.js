@@ -1,5 +1,5 @@
 import React from 'react';
-import {unixTimeToString} from '/home/gregoire/Documents/CS 326/Workshop6/app/util.js';
+import {unixTimeToString} from '../util.js';
 import {Link} from 'react-router';
 import {likeComment} from '../server';
 import {unlikeComment} from '../server';
